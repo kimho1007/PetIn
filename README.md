@@ -5,8 +5,10 @@
 - 팀명 : PETIN
 - 팀장 : 김건호(클라이언트, 서버, db)
 - 팀원 : 백승준(클라이언트, 서버, db)
+
 # 회의록
- 
+- 위 파일 목록 참조
+
 # 주제
 - 앱을 이용한 반려견 푸드 및 건강 정보 제공 시스템
 
@@ -16,7 +18,7 @@
 # 프로젝트 기능
 - 로그인, 회원가입
 - 게시판 기능
-- 레시피 기능
+- 레시피 기능 
 - 냉장고 기능
 - BMI 체크 기능
 - 검색 기능
@@ -26,3 +28,6 @@
 ![image](https://user-images.githubusercontent.com/75024392/170475066-5132a5e5-1923-4d51-96dc-0de9cbbcc6cb.png)
 ![image](https://user-images.githubusercontent.com/75024392/170475145-c195f9ef-f67a-4025-97f6-6a1134a17a65.png)
 
+# 실제 결과 화면 
+![image](https://user-images.githubusercontent.com/75024392/170476315-c341deef-b9a4-4b86-9ede-777949afa8d8.png)
+![image](https://user-images.githubusercontent.com/75024392/170476453-c2d3ab10-550b-45b0-9d2c-fb78be286ac5.png)
