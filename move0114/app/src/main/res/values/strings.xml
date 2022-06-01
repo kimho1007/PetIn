@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">move0114</string>
+
+    <string name="weight">Weight</string>
+    <string name="height">Height</string>
+    <string name="calculateBMI">Calculate BMI</string>
+
+    <string name="very_severely_underweight">Very_severely_underweight </string>
+    <string name="severely_underweight">Severely_underweight</string>
+    <string name="underweight">Underweight</string>
+    <string name="normal">Normal</string>
+    <string name="overweight">Overweight</string>
+    <string name="obese_class_i">obese_class_I (Moderately Obese)</string>
+    <string name="obese_class_ii">obese_class_II (Severely Obese)</string>
+    <string name="obese_class_iii">obese_class_III (Very Severely Obese)</string>
+</resources>
